@@ -253,7 +253,7 @@ if __name__ == "__main__":
 
 	emoji = ["🍹","🍰", "🍕","🔲","⬛","⬜","🤖","🍪","🧂","☕"]
 
-	a_star = butterFinderAStar("input//test3.txt")
+	a_star = butterFinderAStar("input//test1.txt")
 	print(np.array(a_star.data))
 	print("____________________________________\n")
 

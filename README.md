@@ -2,7 +2,7 @@
 
 **AI assignment.**
 <br>
-**Summer 2021 - Artificial Intelligence Course.**
+**springs 2021 - Artificial Intelligence Course.**
 
 
 - BFS
